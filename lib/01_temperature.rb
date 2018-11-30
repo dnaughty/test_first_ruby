@@ -1,0 +1,4 @@
+def ftoc(farenheit)
+	
+end
+
